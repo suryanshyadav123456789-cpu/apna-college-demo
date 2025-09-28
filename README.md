@@ -1,3 +1,3 @@
 # apna-college-demo
-this is my first repository
+this is my git first repository
 author - Suryansh yadav
